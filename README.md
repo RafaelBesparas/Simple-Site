@@ -1,1 +1,3 @@
 # Simple-Site
+
+This is a site that I got inspired by some youtube videos and the made it .It is very easy as a practisee to learn some Css and Html.Currently I am trying to convert it to angular...
